@@ -1,0 +1,20 @@
+## required python packages ##
+
+# common bip44 implementation
+hdwallet
+
+# bip39 reference implementation
+mnemonic
+
+# ecoding
+base58
+
+# RIPEMD160 since no longer part of openssl
+ripemd-hash
+
+# bloom filter implementation
+rbloom
+
+# testing 
+pytest
+
